@@ -13,9 +13,9 @@ I research and design digital experiences with a soft spot for **accessibility a
 
 I'm currently pursuing a Master's degree in User Experience Design at Technische Hochschule Ingolstadt and working on HCI research at AImotion Bavaria's HCIS Lab.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-EA718F?style=for-the-badge&logo=safari&logoColor=white)](https://www.lauraradetzky.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EA718F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTQuMTI4IDBjMCAxLjE0LS45MjUgMi4wNjUtMi4wNjUgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/laura-radetzky/)
-[![ORCID](https://img.shields.io/badge/ORCID-EA718F?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4581-881X)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A4193B?style=for-the-badge&logo=safari&logoColor=white)](https://www.lauraradetzky.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A4193B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTQuMTI4IDBjMCAxLjE0LS45MjUgMi4wNjUtMi4wNjUgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/laura-radetzky/)
+[![ORCID](https://img.shields.io/badge/ORCID-A4193B?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4581-881X)
 
 <br clear="right" />
 
@@ -116,7 +116,7 @@ My work sits at the intersection of **inclusive UX, human–computer interaction
 
 ## Want more? 😍
 
-[![Come visit my portfolio](https://img.shields.io/badge/Come%20visit%20my%20portfolio-EA718F?style=for-the-badge&logo=safari&logoColor=white)](https://www.lauraradetzky.com/#work)
+[![Come visit my portfolio](https://img.shields.io/badge/Come%20visit%20my%20portfolio-A4193B?style=for-the-badge&logo=safari&logoColor=white)](https://www.lauraradetzky.com/#work)
 
 — Mobile applications, web platforms and inclusive research projects.
 
@@ -143,4 +143,4 @@ Outside of design, you'll probably find me gaming, crafting something slightly c
 
 Reach me at
 
-[![laura.radetzky@gmail.com](https://img.shields.io/badge/laura.radetzky%40gmail.com-EA718F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.radetzky@gmail.com)
+[![laura.radetzky@gmail.com](https://img.shields.io/badge/laura.radetzky%40gmail.com-A4193B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.radetzky@gmail.com)
