@@ -35,12 +35,53 @@ My work sits at the intersection of **inclusive UX, human–computer interaction
 
 <table>
   <tbody>
+        <tr>
+      <td width="280" valign="middle">
+        <img
+          width="260"
+          src="https://www.lauraradetzky.com/images/case-studies/scarline/thumbnail_scarline.png"
+          alt="Overview of a user study called Auto UI Study inside the SCARline platform. It shows a tab navigation for navigation to the overview, participants, conditions, simulator setup, sensors, participant view, sessions, and active study. Additionally, it shows four boxes with the participant amount, conditions, sessions, and the status. Below it are quick start tips. The mockup additionally has the icon of a steering wheel, a car, and a book around it."
+        />
+      </td>
+      <td valign="middle">
+        <h3>
+          <a href="https://github.com/tugcanonbas/SCARline">
+            🔎 SCARline
+          </a>
+        </h3>
+        <p>
+          Why does setting up automotive user studies always require a PhD?
+          SCARline doesn't. It's an open-source system that reshapes the way we run research. 
+        </p>
+        <p>
+          <code>Automotive UX</code> ·
+          <code>Simplifying Research</code> ·
+          <code>Simulator Study</code> ·
+          <code>CARLA</code>
+        </p>
+        <p>
+          <a href="https://github.com/tugcanonbas/SCARline">
+            Explore the repository →
+          </a>
+          <br />
+          <a href="https://tugcanonbas.github.io/SCARline/index.html">
+            View the Website →
+          </a>
+          <br />
+          <a href="https://doi.org/10.1145/3828158.3834793">
+            Read the research paper →
+          </a>
+          <br />
+          &nbsp;
+        </p>
+      </td>
+    </tr>
     <tr>
       <td width="280" valign="middle">
         <img
           width="260"
           src="https://www.lauraradetzky.com/images/case-studies/gamification-paper/thumbnail_gamification.png"
-          alt="A mockup of the gamification study."
+          alt="A mockup of the gamification study. It shows a simplified version of the poster of the study. Around the mockup, there are visualizations of a controller, a person holding a magnifying glass and a magnifying glass."
         />
       </td>
       <td valign="middle">
@@ -77,7 +118,7 @@ My work sits at the intersection of **inclusive UX, human–computer interaction
         <img
           width="260"
           src="https://www.lauraradetzky.com/images/case-studies/lanerunner/thumbnail_lanerunner.png"
-          alt="A screenshot of LaneRunner showing a simulated car dashboard overlaid with the game."
+          alt="A screenshot of LaneRunner. It shows a simulated dashboard of a car, overlayed with the game. On the left, there is the coin amount of the player and the lives, shown as hearts. In the center, there is a round view of the game, showing the lanes of the road with the surrounding vehicles. In front of the player car is an avatar and coins. Around the mockup, there are visualizations of a steering wheel, a car, and coins."
         />
       </td>
       <td valign="middle">
