@@ -64,10 +64,6 @@ My work sits at the intersection of **inclusive UX, human–computer interaction
             Explore the repository →
           </a>
           <br />
-          <a href="https://tugcanonbas.github.io/SCARline/index.html">
-            View the Website →
-          </a>
-          <br />
           <a href="https://doi.org/10.1145/3828158.3834793">
             Read the research paper →
           </a>
